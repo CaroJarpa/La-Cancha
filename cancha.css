@@ -1,0 +1,86 @@
+.cancha{
+	width: 760px;
+	height: 379.234px;
+	background-color: #8CB27C;
+}
+
+.borde_cancha{
+	width: 715px;
+	height: 350px;
+	border: 4px solid white;
+	margin-top: 10px;
+	margin-left: 20px;
+	margin- right: 20px;
+	margin-bottom: 15px;
+	position: relative;
+	top: 11px;
+	right: 2px;
+	bottom: 11px;
+}
+
+.arco_uno{
+	width: 80px;
+	height: 150px;
+	border: 4px solid white;
+	position: absolute;
+	top: 120px;
+	left: 27px;
+}
+
+.arco_dos{
+	width: 80px;
+	height: 150px;
+	border: 4px	solid white;
+	position: absolute;
+	top: 120px;
+	left: 660px
+}
+
+.circulo {
+     width: 150px;
+     height: 150px;
+     -moz-border-radius: 50%;
+     -webkit-border-radius: 50%;
+     border-radius: 50%;
+     background: #8CB27C ;
+     border: 4px solid white;
+     position: absolute;
+     top: 120px;
+     left: 350px;
+}
+
+.balon_uno{
+	 width: 20px;
+     height: 20px;
+     -moz-border-radius: 50%;
+     -webkit-border-radius: 50%;
+     border-radius: 50%;
+     background:#F4F4F4;
+     position: absolute;
+     top: 130px;
+     left: 100px;
+}
+
+.balon_dos{
+	width: 20px;
+    height: 20px;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    background:#F4F4F4;
+    position: absolute;
+    top: 70px;
+    left: 450px;
+}
+
+.balon_tres{
+	width: 20px;
+    height: 20px;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    background:#F4F4F4;
+    position: absolute;
+    top: 250px;
+    left: 620px;
+}
